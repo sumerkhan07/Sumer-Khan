@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <strong>Sumer Khan</strong> and I'm a passionate <strong>Java Full Stack Developer</strong> from Pune, India.</p>
+<p align="left">My name is <strong>Sumer Khan</strong>  from Pune, India.</p>
 
 ###
 
@@ -11,8 +11,8 @@
 ###
 
 <p align="left">
-✨ Creating bugs since my first Java project.<br>
-📚 I'm currently learning advanced Spring Boot, REST APIs, and frontend frameworks.<br>
+✨ I'm a passionate Java Full Stack Developer.
+📚 I'm currently learning  Spring Boot, REST APIs, and frontend frameworks.<br>
 🎯 Goals: Become a skilled Full Stack Developer capable of building scalable web applications and APIs.<br>
 🎲 Fun fact: I debug faster with music on and coffee by my side ☕.
 </p>
@@ -74,7 +74,7 @@
 
 <p align="left">
   📧 Email: <a href="mailto:sumerkhan4891@gmail.com">sumerkhan4891@gmail.com</a><br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/sumer-khan9">linkedin.com/in/sumer-khan-</a><br>
+  💼 LinkedIn: <a href="www.linkedin.com/in/sumerkhan9">linkedin.com/in/sumer-khan-</a><br>
   🔗 GitHub: <a href="https://github.com/sumerkhan07">github.com/sumerkhan07</a><br>
   📍 Location: Pune, Maharashtra, India
 </p>

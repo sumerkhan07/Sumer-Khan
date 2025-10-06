@@ -74,7 +74,7 @@
 
 <p align="left">
   📧 Email: <a href="mailto:sumerkhan4891@gmail.com">sumerkhan4891@gmail.com</a><br>
-  💼 LinkedIn: <a href="www.linkedin.com/in/sumerkhan9">linkedin.com/in/sumer-khan-</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/sumerkhan9">linkedin.com/in/sumerkhan9</a><br>
   🔗 GitHub: <a href="https://github.com/sumerkhan07">github.com/sumerkhan07</a><br>
   📍 Location: Pune, Maharashtra, India
 </p>
